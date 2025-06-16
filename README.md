@@ -17,7 +17,7 @@ A simple linear regression project exploring the **California Housing dataset**,
 
 ## 📊 Dataset
 
-- Source: [California Housing Data (StatLib Repository)](https://www.dcc.fc.up.pt/~ltorgo/Regression/cal_housing.html)  
+- Source: [California Housing Data (Kaggle)](https://www.kaggle.com/datasets/camnugent/california-housing-prices)  
 - Format: CSV (loaded via a Google Sheets link)
 - Features include:
   - `longitude`, `latitude`
